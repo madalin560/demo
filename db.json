@@ -3,10 +3,10 @@
     { "email": "alexandrustanel@yahoo.com", "password": "madalin1", "name": "Madalin Alexandru", "gender": "male" }
   ],
   "destinations": {
-    Spania: {
+    "Spania": {
       
     },
-    Italia: {
+    "Italia": {
       
     }
   }
