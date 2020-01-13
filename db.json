@@ -17,6 +17,20 @@
       "dateReturn": "26-05-2020",
       "origin": "Romania",
       "destination": "Italia"
+    },
+    {
+      "company": "Blue air",
+      "dateDeparture": "20-05-2020",
+      "dateReturn": "26-05-2020",
+      "origin": "Romania",
+      "destination": "Italia"
+    },
+    {
+      "company": "Tarom",
+      "dateDeparture": "20-05-2020",
+      "dateReturn": "26-05-2020",
+      "origin": "Romania",
+      "destination": "Italia"
     }
   ]
 }
