@@ -2,14 +2,26 @@
   "users": [
     { "email": "alexandrustanel@yahoo.com", "password": "madalin1", "name": "Madalin Alexandru", "gender": "male" }
   ],
-  "destinations": {
-    "Spania": {
-      
+  "bookings": [
+    {
+      "id": "2",
+      "user": "Madalin Alexandru",
+      "company": "Wizz air",
+      "dateDeparture": "20-05-2020",
+      "dateReturn": "26-05-2020",
+      "origin": "Romania",
+      "destination": "Italia"
     },
-    "Italia": {
-      
+    {
+      "id": "4",
+      "user": "Madalin Alexandru",
+      "company": "Blue air",
+      "dateDeparture": "20-05-2020",
+      "dateReturn": "26-05-2020",
+      "origin": "Romania",
+      "destination": "Italia"
     }
-  },
+  ],
   "flights": [
     {
       "company": "Wizz air",
