@@ -9,5 +9,14 @@
     "Italia": {
       
     }
-  }
+  },
+  "flights": [
+    {
+      company: "Wizz air",
+      dateDeparture: "20-05-2020",
+      dateReturn: "26-05-2020",
+      origin: "Romania",
+      destination: "Italia"
+    }
+  ]
 }
